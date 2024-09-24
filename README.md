@@ -1,1 +1,1 @@
-# IDP-Resources
+# IDP Resources
